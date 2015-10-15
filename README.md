@@ -1,2 +1,2 @@
 # Markdowncompiler
-A compiler for markdown
+A compiler for markdown, school project.
